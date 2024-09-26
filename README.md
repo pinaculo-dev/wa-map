@@ -25,7 +25,7 @@ We recommend following this file structure:
 * *tilesets/*: All PNG tilesets
 
 > **Pro tips**
-> If you want to use more than one map file, just add the new map file in the root folder (we recommend creating a copy of *office.tmj* and editing it, in order to avoid any mistakes).
+> If you want to use more than one map file, just add the new map file in the root folder (we recommend creating a copy of *office.tmj* and editing it, in order to avoid any mistakes)..
 > We recommend using 512x512 images for the map thumbnails.
 > If you are going to create custom websites to embed in the map, please reference the HTML files in the `input` option in *vite.config.js*.
 
