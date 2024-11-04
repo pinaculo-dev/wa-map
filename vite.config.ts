@@ -41,6 +41,6 @@ export default defineConfig({
             "Access-Control-Allow-Headers": "X-Requested-With, content-type, Authorization",
             "Cache-Control": "no-cache, no-store, must-revalidate",
         },
-        open: "/",
+        open: false,
     },
 });
